@@ -2,7 +2,7 @@
 ----------------
 An overview of the independent data analysis and visualization projects I have undertaken to explore and showcase my skills.
 
-#### 1. Exploratory analysis and visualization of L&D survey data (records for 2018-2020 collected by Emerald Works UK) using Python.
+#### [1. Exploratory analysis and visualization of L&D survey data (records for 2018-2020 collected by Emerald Works UK) using Python.](https://nbviewer.jupyter.org/github/SuzieP/Portfolio/blob/master/EmeraldWorks%20L%26D%20survey%20analysis%20and%20dashboard.ipynb)
 ###### The dataset
 
 The dataset comes in an excel file provided by the L&D research organization EmeraldWorks and contains 3 years’ worth of data collected from learning and development leaders and their organisational learning strategy.  In total there are 1697 rows of respondents and 293 variables in the dataset.
