@@ -8,8 +8,8 @@ An overview of the independent data analysis and visualization projects I have u
 
 #### Exploratory analysis and WordCloud visualization of tweets with keyword 'Trump' (scraped from Twitter Jan 5-8 2021) using Python.
 
-#### Exploratory analysis of citation network (public Citation dataset, 2010) using PageRank algorithm. 
+#### Exploratory analysis of citation network (public Citation dataset, 2010) using the Python PageRank algorithm. 
 
 #### Data visualization of Hollywood's most profitable stories (pulled from InformationisBeautiful for 2008-2011) using Tableau.
 
-#### Data visualization of Trump's approval ratings (pulled from FiveThirtyEight on Nov 2020) using Tableau.
+#### Data visualization of Trump's approval ratings (pulled from FiveThirtyEight on Nov 2020) using Python and Tableau.
