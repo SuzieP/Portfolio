@@ -16,7 +16,7 @@ I conducted an exploratory analysis of the survey results that unveiled the sign
 An interactive dashboard with the results of my analysis on plotly can be found [here](https://chart-studio.plotly.com/~spap/7/ew-ld-data-2018-2020/)
 
 
-#### 2. Exploratory analysis of the Chicago govt. public datasets (published in 2012) using SQL and Python.
+#### [2. Exploratory analysis of the Chicago govt. public datasets (published in 2012) using SQL and Python.](Chicago- school, socioeconomics, and crime.ipynb)
 In this project I explore the relationships between the variables in three different datasets pulled from the Chicago government website: 
  1. Socioeconomic indicators in Chicago for each community area for years 2018-2012
  2. Chicago public school records for the 2011-2012 school year
@@ -36,7 +36,7 @@ I conduct an exploratory correlation analysis between the following variables:
 
 #### 5. Data visualization of Hollywood's most profitable stories (pulled from InformationisBeautiful for 2008-2011) using Tableau.
 
-#### 6. Data visualization of Trump's approval ratings (pulled from FiveThirtyEight on Nov 2020) using Python and Tableau.
+#### [6. Data visualization of Trump's approval ratings (pulled from FiveThirtyEight on Nov 2020) using Python and Tableau.](Tracking Trump's approval and disapproval ratings.ipynb)
 
 <div class='tableauPlaceholder' id='viz1612443264380' style='position: relative'>
 <noscript>
