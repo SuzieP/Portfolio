@@ -1,4 +1,4 @@
-# Portfolio - Suzie Papantoni
+# Portfolio - Sotiria (Suzie) Papantoni
 ----------------
 An overview of the independent data analysis and visualization projects I have undertaken to explore and showcase my skills.
 
@@ -35,7 +35,9 @@ In light of the Capitol Hill riots and the subsequent ban of Donald Trump's acco
 
 I calculated the most newsworthy words of each day (aka words that are more frequent on a particular day than on other days) surrounding Donald Trump through a basic custom algorithm and visualized the results through WordCloud art. 
 
-#### 4. Exploratory analysis of citation network (public Citation dataset, 2010) using the Python PageRank algorithm. 
+#### [4. Exploratory analysis of citation network (public Citation dataset, 2010) using the Python PageRank algorithm.](https://github.com/SuzieP/Portfolio/blob/master/Citation%20Network%20with%20PageRank.ipynb) 
+
+This is a collaborative project and an exploratory network analysis of this [Citation-Network V1](https://www.aminer.org/citation) containing research citation data for 629,814 papers and 632.752 citations. We wanted to generate the most important papers in this dataset according to how often it was referenced by other papers. So we built a network in which every node was a single paper and every edge was a reference to another paper. We ran the PageRank algorithm on a subgraph of the data to determine which nodes were the most important. We also explored some additional properties of the dataset such as weakly connected components and betweenness centrality to facilitate our understanding of the citation data. 
 
 #### [5. Data visualization of Hollywood's most profitable stories (pulled from InformationisBeautiful for 2008-2011) using Tableau.](https://public.tableau.com/shared/9QZ9NR56C?:display_count=y&:origin=viz_share_link)
 
