@@ -8,14 +8,14 @@ An overview of the independent data analysis and visualization projects I have u
 In this project I explore the relationships between the variables in three different datasets pulled from the Chicago government website: 
  1. Socioeconomic indicators in Chicago for each community area for years 2018-2012
  2. Chicago public school records for the 2011-2012 school year
- 3. Chicago crime data from 2001 to 2012
-I conduct an exploratory correlation analysis between the following variables: 
-	⁃	per capita income
-	⁃	hardship index
-	⁃	crime count
-	⁃	safety score
-	⁃	college enrollment rates
-	⁃	school misconduct rates
+ 3. Chicago crime data from 2001 to 2012⋅⋅
+I conduct an exploratory correlation analysis between the following variables: ⋅⋅
+* per capita income
+* hardship index
+* crime count
+* safety score
+* college enrollment rates
+* school misconduct rates
 
 #### Exploratory analysis and WordCloud visualization of tweets with keyword 'Trump' (scraped from Twitter Jan 5-8 2021) using Python.
 
