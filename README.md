@@ -9,7 +9,7 @@ The dataset comes in an excel file provided by the L&D research organization Eme
 
 ###### The analysis
 
-I conducted an exploratory analysis of the survey results that unveiled the significance of Learning & Development strategies in organizational performance, the top L&D skills achieved and the top L&D skills needed across 2018-2020 and the top L&D barriers across 2018-2020.
+I conducted an exploratory analysis of the survey results that unveiled the significance of Learning & Development strategies in organizational performance, the top L&D skills achieved and top L&D skills needed across 2018-2020 as well as the top L&D barriers across 2018-2020.
 
 ###### The results 
 
