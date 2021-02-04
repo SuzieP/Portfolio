@@ -3,6 +3,18 @@
 An overview of the independent data analysis and visualization projects I have undertaken to explore and showcase my skills.
 
 #### Exploratory analysis and visualization of L&D survey data (records for 2018-2020 collected by Emerald Works UK) using Python.
+######The dataset
+
+The dataset comes in an excel file provided by the L&D research organization EmeraldWorks and contains 3 years’ worth of data collected from learning and development leaders and their organisational learning strategy.  In total there are 1697 rows of respondents and 293 variables in the dataset.
+
+#######The analysis 
+
+I conducted an exploratory analysis of the survey results that unveiled the significance of Learning & Development strategies in organizational performance, the top L&D skills achieved and the top L&D skills needed across 2018-2020 and the top L&D barriers across 2018-2020.
+
+#######The results 
+
+I created an interactive dashboard with the results of my analysis on plotly that can be found [here] (https://chart-studio.plotly.com/~spap/7/ew-ld-data-2018-2020/)
+
 
 #### Exploratory analysis of the Chicago govt. public datasets (published in 2012) using SQL and Python.
 In this project I explore the relationships between the variables in three different datasets pulled from the Chicago government website: 
