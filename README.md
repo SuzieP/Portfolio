@@ -31,7 +31,7 @@ I conduct an exploratory correlation analysis between the following variables:
 * school misconduct rates
 
 #### 3. Exploratory content analysis and WordCloud visualization of tweets relating to Donald Trump (scraped from Twitter Jan 5-8 2021) using Python.
-In light of this week's riots in Capitol Hill and the subsequent ban of Donald Trump's account on Twitter, I did an exploratory analysis of all tweets about Donald Trump from January 5 to January 8 2021.  
+In light of the Capitol Hill riots and the subsequent ban of Donald Trump's account on Twitter, I did an exploratory analysis of all tweets about Donald Trump from January 5 to January 8 2021.  
 
 I calculated the most newsworthy words of each day (aka words that are more frequent on a particular day than on other days) surrounding Donald Trump through a basic custom algorithm and visualized the results through WordCloud art. 
 
