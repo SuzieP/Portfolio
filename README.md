@@ -42,7 +42,7 @@ The most newsworthy words surrounding Donald Trump on each day were then visuali
 
 This is a collaborative project and an exploratory network analysis of this [Citation-Network V1](https://www.aminer.org/citation) containing research citation data for 629,814 papers and 632.752 citations. We wanted to generate the most important papers in this dataset according to how often it was referenced by other papers. So we built a network in which every node was a single paper and every edge was a reference to another paper. We ran the PageRank algorithm on a subgraph of the data to determine which nodes were the most important. We also explored some additional properties of the dataset such as weakly connected components and betweenness centrality to facilitate our understanding of the citation data. 
 
-<img src="https://github.com/SuzieP/Portfolio/blob/master/Citation%20network%20pseudocode.png">
+<img src="img/Citation network pseudocode.png">
 
 #### [5. Data visualization of Hollywood's most profitable stories (pulled from InformationisBeautiful for 2008-2011) using Tableau.](https://public.tableau.com/views/MostProfitableHollywoodStories2008-2011/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link)
 
