@@ -2,7 +2,7 @@
 ----------------
 An overview of the independent data analysis and visualization projects I have undertaken to explore and showcase my skills.
 
-#### Exploratory analysis and visualization of L&D survey data (records for 2018-2020 collected by Emerald Works UK) using Python.
+#### 1. Exploratory analysis and visualization of L&D survey data (records for 2018-2020 collected by Emerald Works UK) using Python.
 ###### The dataset
 
 The dataset comes in an excel file provided by the L&D research organization EmeraldWorks and contains 3 years’ worth of data collected from learning and development leaders and their organisational learning strategy.  In total there are 1697 rows of respondents and 293 variables in the dataset.
@@ -16,7 +16,7 @@ I conducted an exploratory analysis of the survey results that unveiled the sign
 I created an interactive dashboard with the results of my analysis on plotly that can be found [here](https://chart-studio.plotly.com/~spap/7/ew-ld-data-2018-2020/)
 
 
-#### Exploratory analysis of the Chicago govt. public datasets (published in 2012) using SQL and Python.
+#### 2. Exploratory analysis of the Chicago govt. public datasets (published in 2012) using SQL and Python.
 In this project I explore the relationships between the variables in three different datasets pulled from the Chicago government website: 
  1. Socioeconomic indicators in Chicago for each community area for years 2018-2012
  2. Chicago public school records for the 2011-2012 school year
@@ -30,13 +30,13 @@ I conduct an exploratory correlation analysis between the following variables:
 * college enrollment rates
 * school misconduct rates
 
-#### Exploratory analysis and WordCloud visualization of tweets with keyword 'Trump' (scraped from Twitter Jan 5-8 2021) using Python.
+#### 3. Exploratory analysis and WordCloud visualization of tweets with keyword 'Trump' (scraped from Twitter Jan 5-8 2021) using Python.
 
-#### Exploratory analysis of citation network (public Citation dataset, 2010) using the Python PageRank algorithm. 
+#### 4. Exploratory analysis of citation network (public Citation dataset, 2010) using the Python PageRank algorithm. 
 
-#### Data visualization of Hollywood's most profitable stories (pulled from InformationisBeautiful for 2008-2011) using Tableau.
+#### 5. Data visualization of Hollywood's most profitable stories (pulled from InformationisBeautiful for 2008-2011) using Tableau.
 
-#### Data visualization of Trump's approval ratings (pulled from FiveThirtyEight on Nov 2020) using Python and Tableau.
+#### 6. Data visualization of Trump's approval ratings (pulled from FiveThirtyEight on Nov 2020) using Python and Tableau.
 
 <div class='tableauPlaceholder' id='viz1612443264380' style='position: relative'>
 <noscript>
