@@ -17,7 +17,7 @@ An interactive dashboard with the results of my analysis on plotly can be found 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/dashboard/spap:7/embed"></iframe>
 
 #### [2. Exploratory quantitative analysis of the Chicago govt. public datasets (published in 2012) using SQL and Python.](https://nbviewer.jupyter.org/github/SuzieP/Portfolio/blob/master/Chicago-%20school%2C%20socioeconomics%2C%20and%20crime.ipynb)
-In this project I explored the relationships between the variables in three different datasets pulled from the Chicago government website: 
+In this project I explored the relationships between the variables in three different datasets pulled from the Chicago government website and stored in a DB2 database: 
  1. Socioeconomic indicators in Chicago for each community area for years 2018-2012
  2. Chicago public school records for the 2011-2012 school year
  3. Chicago crime data from 2001 to 2012  
