@@ -32,7 +32,7 @@ I conducted an exploratory correlation analysis between the following variables:
 
 #### [3. Exploratory content analysis and WordCloud visualization of tweets relating to Donald Trump (scraped from Twitter Jan 5-8 2021) using Python.](https://github.com/SuzieP/Portfolio/blob/master/twitter-trump/twitter-trump.md)
 
-In light of the Capitol Hill riots and the subsequent ban of Donald Trump's account on Twitter, I performed an exploratory analysis of all tweets that mention Donald Trump posted between January 5 to January 8 2021.  
+In light of the Capitol Hill riots and the subsequent ban of Donald Trump's account on Twitter, I performed a content analysis of all tweets that mention Donald Trump posted between January 5 to January 8 2021.  
 
 I created a basic algorithm to calculate the 'newsworthiness' of each word on each day that increases with the frequency of that word on that day and decreases with the frequency of the same word on all other days.
 
