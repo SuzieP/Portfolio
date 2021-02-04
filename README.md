@@ -2,7 +2,7 @@
 ----------------
 An overview of the independent data analysis and visualization projects I have undertaken to explore and showcase my skills.
 
-#### Exploratory analysis and visualization of L&D survey data (UK records for 2018-2020) using Python.
+#### Exploratory analysis and visualization of L&D survey data (records for 2018-2020 pulled by Emerald Works UK) using Python.
 
 #### Exploratory analysis of the Chicago govt. public datasets (published in 2012) using SQL and Python.
 
