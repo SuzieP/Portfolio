@@ -17,12 +17,12 @@ An interactive dashboard with the results of my analysis on plotly can be found 
 
 
 #### [2. Exploratory quantitative analysis of the Chicago govt. public datasets (published in 2012) using SQL and Python.](https://nbviewer.jupyter.org/github/SuzieP/Portfolio/blob/master/Chicago-%20school%2C%20socioeconomics%2C%20and%20crime.ipynb)
-In this project I explore the relationships between the variables in three different datasets pulled from the Chicago government website: 
+In this project I explored the relationships between the variables in three different datasets pulled from the Chicago government website: 
  1. Socioeconomic indicators in Chicago for each community area for years 2018-2012
  2. Chicago public school records for the 2011-2012 school year
  3. Chicago crime data from 2001 to 2012  
 
-I conduct an exploratory correlation analysis between the following variables:
+I conducted an exploratory correlation analysis between the following variables:
 * per capita income
 * hardship index
 * crime count
@@ -31,9 +31,12 @@ I conduct an exploratory correlation analysis between the following variables:
 * school misconduct rates
 
 #### [3. Exploratory content analysis and WordCloud visualization of tweets relating to Donald Trump (scraped from Twitter Jan 5-8 2021) using Python.](https://github.com/SuzieP/Portfolio/blob/master/twitter-trump/twitter-trump.md)
-In light of the Capitol Hill riots and the subsequent ban of Donald Trump's account on Twitter, I did an exploratory analysis of all tweets about Donald Trump from January 5 to January 8 2021.  
 
-I calculated the most newsworthy words of each day (aka words that are more frequent on a particular day than on other days) surrounding Donald Trump through a basic custom algorithm and visualized the results through WordCloud art. 
+In light of the Capitol Hill riots and the subsequent ban of Donald Trump's account on Twitter, I performed an exploratory analysis of all tweets that mention Donald Trump posted between January 5 to January 8 2021.  
+
+I created a basic algorithm to calculate the 'newsworthiness' of each word on each day that increases with the frequency of that word on that day and decreases with the frequency of the same word on all other days.
+
+The most newsworthy words surrounding Donald Trump on each day were then visualized through WordCloud art to create a visual story of the daily news as seen through Twitter.
 
 #### [4. Exploratory analysis of citation network (public Citation dataset, 2010) using the Python PageRank algorithm.](https://nbviewer.jupyter.org/github/SuzieP/Portfolio/blob/master/Citation%20Network%20with%20PageRank.ipynb) 
 
