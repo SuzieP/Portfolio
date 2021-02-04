@@ -1,4 +1,4 @@
-# Portfolio - Sotiria (Suzie) Papantoni
+# Data Analysis Personal Projects - Sotiria (Suzie) Papantoni
 ----------------
 Here are some of the independent data analysis and visualization projects I have undertaken to explore and showcase my skills:
 
