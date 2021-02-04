@@ -1,14 +1,1 @@
-function initializeViz() {
-
-  var placeholderDiv = document.getElementById("tableauViz");
-
-  var url = "https://public.tableau.com/views/HowpopularisDonaldTrump/Sheet1?:language=en&:display_count=y&:origin=viz_share_link";
-
-  var options = {
-    width: '600px',
-    height: '600px',
-    hideTabs: true,
-    hideToolbar: true,
-  };
-  viz = new tableau.Viz(placeholderDiv, url, options);
-}
+<iframe src="https://public.tableau.com/views/HowpopularisDonaldTrump/Sheet1?:embed=yes&:display_count=yes"></iframe>
