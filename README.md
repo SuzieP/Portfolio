@@ -1,10 +1,10 @@
 # Data Analysis Personal Projects - Sotiria (Suzie) Papantoni
 ----------------
 
-#### [1. Exploratory analysis and visualization of L&D survey data (records for 2018-2020 collected by Emerald Works UK) using Python.](https://nbviewer.jupyter.org/github/SuzieP/Portfolio/blob/master/EmeraldWorks%20L%26D%20survey%20analysis%20and%20dashboard.ipynb)
+#### [1. Quantitative analysis and visualization of L&D survey data (records for 2018-2020 collected by Emerald Works UK) using Python.](https://nbviewer.jupyter.org/github/SuzieP/Portfolio/blob/master/EmeraldWorks%20L%26D%20survey%20analysis%20and%20dashboard.ipynb)
 ###### The dataset
 
-The dataset comes in an excel file provided by the L&D research organization EmeraldWorks and contains 3 years’ worth of data collected from learning and development leaders and their organisational learning strategy.  In total there are 1697 rows of respondents and 293 variables in the dataset.
+The dataset comes in an excel file provided by the L&D research organization Emerald Works and contains 3 years’ worth of data collected from learning and development leaders and their organisational learning strategy.  In total there are 1697 rows of respondents and 293 variables in the dataset.
 
 ###### The analysis
 
@@ -15,7 +15,7 @@ I conducted an exploratory analysis of the survey results that unveiled the sign
 An interactive dashboard with the results of my analysis on plotly can be found [below](https://chart-studio.plotly.com/~spap/7/ew-ld-data-2018-2020/)
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/dashboard/spap:7/embed"></iframe>
 
-#### [2. Exploratory quantitative analysis of the Chicago govt. public datasets (published in 2012) using SQL and Python.](https://nbviewer.jupyter.org/github/SuzieP/Portfolio/blob/master/Chicago-%20school%2C%20socioeconomics%2C%20and%20crime.ipynb)
+#### [2. Exploratory correlation analysis of the Chicago govt. public datasets (published in 2012) using SQL and Python.](https://nbviewer.jupyter.org/github/SuzieP/Portfolio/blob/master/Chicago-%20school%2C%20socioeconomics%2C%20and%20crime.ipynb)
 In this project I explored the relationships between the variables in three different datasets pulled from the Chicago government website and stored in a DB2 database: 
  1. Socioeconomic indicators in Chicago for each community area for years 2018-2012
  2. Chicago public school records for the 2011-2012 school year
@@ -29,13 +29,13 @@ I conducted an exploratory correlation analysis between the following variables:
 * college enrollment rates
 * school misconduct rates
 
-#### [3. Exploratory content analysis and WordCloud visualization of tweets relating to Donald Trump (scraped from Twitter Jan 5-8 2021) using Python.](https://github.com/SuzieP/Portfolio/blob/master/twitter-trump/twitter-trump.md)
+#### [3. Web Scraping with Twitter API, content analysis and WordCloud visualization using Python.](https://github.com/SuzieP/Portfolio/blob/master/twitter-trump/twitter-trump.md)
 
-In light of the Capitol Hill riots and the subsequent ban of Donald Trump's account on Twitter, I performed a content analysis of all tweets that mention Donald Trump posted between January 5 to January 8 2021.  
+In light of the Capitol Hill riots and the subsequent ban of Donald Trump's account on Twitter, I performed an exploratory content analysis of all tweets that mention Donald Trump posted between January 5 to January 8 2021.  
 
 I created a simple algorithm to calculate the ‘newsworthiness' of each word on a given day, aka how frequent the word is on that day vs on other days. The distribution of this value across words was then visualized through WordCloud for each day. The result is a visual story of the daily news surrounding Donald Trump as seen through Twitter. 
 
-#### [4. Exploratory analysis of citation network (public Citation dataset, 2010) using the Python PageRank algorithm.](https://nbviewer.jupyter.org/github/SuzieP/Portfolio/blob/master/Citation%20Network%20with%20PageRank.ipynb) 
+#### [4. Citation network analysis using Python's PageRank algorithm and visualization (dataset published by AMiner in 2010).](https://nbviewer.jupyter.org/github/SuzieP/Portfolio/blob/master/Citation%20Network%20with%20PageRank.ipynb) 
 
 This is a collaborative project and an exploratory network analysis of this [Citation-Network V1](https://www.aminer.org/citation) containing research citation data for 629,814 papers and 632.752 citations. We wanted to generate the most important papers in this dataset according to how often it was referenced by other papers. So we built a network in which every node was a single paper and every edge was a reference to another paper. We ran the PageRank algorithm on a subgraph of the data to determine which nodes were the most important. We also explored some additional properties of the dataset such as weakly connected components and betweenness centrality to facilitate our understanding of the citation data. 
 
