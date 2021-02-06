@@ -1,7 +1,7 @@
 # Data Analysis Personal Projects - Sotiria (Suzie) Papantoni
 ----------------
 
-#### [1. Quantitative analysis and visualization of L&D survey data (records for 2018-2020 collected by Emerald Works UK) using Python.](https://nbviewer.jupyter.org/github/SuzieP/Portfolio/blob/master/EmeraldWorks%20L%26D%20survey%20analysis%20and%20dashboard.ipynb)
+#### [1. Multivariate quantitative analysis and visualization of L&D survey data (records for 2018-2020 collected by Emerald Works UK) using Python.](https://nbviewer.jupyter.org/github/SuzieP/Portfolio/blob/master/EmeraldWorks%20L%26D%20survey%20analysis%20and%20dashboard.ipynb)
 ###### The dataset
 
 The dataset comes in an excel file provided by the L&D research organization Emerald Works and contains 3 years’ worth of data collected from learning and development leaders and their organisational learning strategy.  In total there are 1697 rows of respondents and 293 variables in the dataset.
