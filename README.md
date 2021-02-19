@@ -12,8 +12,6 @@
 #### Project 1 
 #### [Data analysis and visualization of recruitment gender bias in synthetic HR dataset using Python and Tableau.](https://suziep.github.io/Recruitment-bias/)
 
-###### [HR Recruitment Analytics Report](https://suziep.github.io/Recruitment-bias/)
-
 What is the gender breakdown of the candidates throughout the recruitment process?  
 <iframe width="800" height="600" src="https://public.tableau.com/views/GenderBias_16132350298880/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link&:showVizHome=no"></iframe>
 
