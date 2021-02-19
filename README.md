@@ -51,7 +51,7 @@ I conducted an exploratory correlation analysis between the following variables:
 
 In light of the Capitol Hill riots and the subsequent ban of Donald Trump's account on Twitter, I performed an exploratory content analysis of all tweets that mention Donald Trump posted between January 5 to January 8 2021.  
 
-I created a simple algorithm to calculate the ‘newsworthiness' of each word on a given day, aka how frequent the word is on that day vs on other days. The distribution of this value across words was then visualized through WordCloud for each day. The result is a visual story of the daily news surrounding Donald Trump as seen through Twitter. 
+I created a simple algorithm to calculate the ‘newsworthiness' of each word on a given day, aka how frequent the word is on that day vs on other days in the dataset. The distribution of this value across words was then visualized through WordCloud for each day. The result is a visual story of the daily news surrounding Donald Trump as seen through Twitter. 
 
 #### Project 5
 #### [Citation network analysis using Python's PageRank algorithm and visualization (dataset published by AMiner in 2010).](https://nbviewer.jupyter.org/github/SuzieP/Portfolio/blob/master/Citation%20Network%20with%20PageRank.ipynb) 
