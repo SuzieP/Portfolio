@@ -4,7 +4,7 @@
 ##### [Data analysis and interactive visualization of recruitment gender bias in synthetic HR dataset using Python and Tableau.](project-1)
 ##### [Multivariate quantitative analysis and visualization of Learning & Development survey data using Python.](#project-2)
 ##### [Exploratory correlation analysis of the Chicago govt. public datasets using SQL and Python.](#project-3)
-##### [Data visualization of My Spotify Streaming History scraped with the Spotify API and using Python and Tableau.](#project-4)
+##### [Data visualization of my Spotify streaming history scraped with the Spotify API and using Python and Tableau.](#project-4)
 ##### [Web Scraping with Twitter API, content analysis and WordCloud visualization using Python.](#project-5)
 ##### [Citation network analysis using Python's PageRank algorithm.](#project-6)
 
@@ -52,7 +52,7 @@ I conducted an exploratory correlation analysis between the following variables:
 * school misconduct rates
 
 #### Project 4
-#### [Data visualization of My Spotify Streaming History Feb. 2020 - Feb. 2021 scraped with the Spotify API and using Python and Tableau.](https://nbviewer.jupyter.org/github/SuzieP/Portfolio/blob/master/MySpotify.ipynb)
+#### [Data visualization of my Spotify streaming history for Feb. 2020 - Feb. 2021 scraped with the Spotify API and using Python and Tableau.](https://nbviewer.jupyter.org/github/SuzieP/Portfolio/blob/master/MySpotify.ipynb)
 
 <div class='tableauPlaceholder' id='viz1613716451631' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;My&#47;MySpotify2020&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MySpotify2020&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;My&#47;MySpotify2020&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>      
 
