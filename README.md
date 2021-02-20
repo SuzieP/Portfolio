@@ -1,7 +1,7 @@
 # Data Analysis Personal Projects - Sotiria (Suzie) Papantoni
 
 ----------------
-##### [Data analysis and visualization of recruitment gender bias in synthetic HR dataset using Python and Tableau.](project-1)
+##### [Data analysis and interactive visualization of recruitment gender bias in synthetic HR dataset using Python and Tableau.](project-1)
 ##### [Multivariate quantitative analysis and visualization of Learning & Development survey data using Python.](#project-2)
 ##### [Exploratory correlation analysis of the Chicago govt. public datasets using SQL and Python.](#project-3)
 ##### [Data visualization of My Spotify Streaming History scraped with the Spotify API and using Python and Tableau.](#project-4)
@@ -10,7 +10,7 @@
 
 ----------------
 #### Project 1 
-#### [Data analysis and visualization of recruitment gender bias in synthetic HR dataset using Python and Tableau.](https://suziep.github.io/Recruitment-bias/)
+#### [Data analysis and interactive visualization of recruitment gender bias in synthetic HR dataset using Python and Tableau.](https://suziep.github.io/Recruitment-bias/)
 
 What is the gender breakdown of the candidates throughout the recruitment process?  
 <iframe width="800" height="600" src="https://public.tableau.com/views/GenderBias_16132350298880/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link&:showVizHome=no"></iframe>
@@ -18,7 +18,8 @@ What is the gender breakdown of the candidates throughout the recruitment proces
 Is there any statistically significant gender bias? Who does it favor? How significant is it?
 <iframe width="800" height="600" src="https://public.tableau.com/views/GenderBreakdown_16137679145020/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link&:showVizHome=no"></iframe>
 
-###### [Personal Workbook in Python](https://nbviewer.jupyter.org/github/SuzieP/Recruitment-bias/blob/main/Recruitment%20Analytics%20%28Gender%20Bias%29.ipynb)
+###### [Final HR Report](https://suziep.github.io/Recruitment-bias/)
+###### [Personal Workbook](https://nbviewer.jupyter.org/github/SuzieP/Recruitment-bias/blob/main/Recruitment%20Analytics%20%28Gender%20Bias%29.ipynb)
 
 #### Project 2
 #### [Multivariate quantitative analysis and visualization of Learning & Development survey data (records for 2018-2020 collected by Emerald Works UK) using Python.](https://nbviewer.jupyter.org/github/SuzieP/Portfolio/blob/master/EmeraldWorks%20L%26D%20survey%20analysis%20and%20dashboard.ipynb)
