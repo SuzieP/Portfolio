@@ -20,7 +20,7 @@ Is there any statistically significant gender bias? Who does it favor? How signi
 
 ###### [Final HR Report](https://suziep.github.io/Recruitment-bias/)
 ###### [Personal Workbook](https://nbviewer.jupyter.org/github/SuzieP/Recruitment-bias/blob/main/Recruitment%20Analytics%20%28Gender%20Bias%29.ipynb)
- 
+
 #### Project 2
 #### [Multivariate quantitative analysis and visualization of Learning & Development survey data (records for 2018-2020 collected by Emerald Works UK) using Python.](https://nbviewer.jupyter.org/github/SuzieP/Portfolio/blob/master/EmeraldWorks%20L%26D%20survey%20analysis%20and%20dashboard.ipynb)
 ###### The dataset
