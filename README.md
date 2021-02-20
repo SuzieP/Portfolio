@@ -6,7 +6,7 @@
 ##### [Exploratory correlation analysis of the Chicago govt. public datasets using SQL and Python.](#project-3)
 ##### [Data visualization of My Spotify Streaming History scraped with the Spotify API and using Python and Tableau.](#project-4)
 ##### [Web Scraping with Twitter API, content analysis and WordCloud visualization using Python.](#project-5)
-##### [Citation network analysis using Python's PageRank algorithm and visualization.](#project-6)
+##### [Citation network analysis using Python's PageRank algorithm.](#project-6)
 
 ----------------
 #### Project 1 
