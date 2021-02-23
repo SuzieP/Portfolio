@@ -20,10 +20,10 @@ Synthetic dataset with 999 entries of candidates applying to a company’s gradu
 
 To examine potential gender bias in the recruitment process and determine its significance. 
 
-What is the gender breakdown of the candidates throughout the recruitment process?  
+**What is the gender breakdown of the candidates throughout the recruitment process?**
 <iframe width="800" height="600" src="https://public.tableau.com/views/GenderBias_16132350298880/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link&:showVizHome=no"></iframe>
 
-Is there any statistically significant gender bias? Who does it favor? How significant is it?
+**Is there any statistically significant gender bias? Who does it favor? How significant is it?**
 <iframe width="800" height="600" src="https://public.tableau.com/views/GenderBreakdown_16137679145020/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link&:showVizHome=no"></iframe>
 
 ###### [Final HR Report](https://suziep.github.io/Recruitment-bias/)
