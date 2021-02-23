@@ -12,6 +12,14 @@
 #### Project 1 
 #### [Data analysis and interactive visualization of recruitment gender bias in synthetic HR dataset using Python and Tableau.](https://nbviewer.jupyter.org/github/SuzieP/Recruitment-bias/blob/main/Recruitment%20Analytics%20%28Gender%20Bias%29.ipynb)
 
+###### The dataset
+
+Synthetic dataset with 999 entries of candidates applying to a company’s graduate program from 2016 to 2019. Information given on the candidates includes: date of application, gender, pre-screening test score, and final recruitment stage achieved by the candidate. 
+
+###### The goal
+
+To examine potential gender bias in the recruitment process and determine its significance. 
+
 What is the gender breakdown of the candidates throughout the recruitment process?  
 <iframe width="800" height="600" src="https://public.tableau.com/views/GenderBias_16132350298880/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link&:showVizHome=no"></iframe>
 
