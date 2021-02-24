@@ -1,7 +1,7 @@
 # Data Analysis Personal Projects - Sotiria (Suzie) Papantoni
 
 ----------------
-##### [Data analysis and interactive visualization of recruitment gender bias in synthetic HR dataset using Python and Tableau.](project-1)
+##### [Data analysis and interactive visualization of recruitment gender bias in synthetic HR dataset using Python and Tableau.](#project-1)
 ##### [Multivariate quantitative analysis and visualization of Learning & Development survey data using Python.](#project-2)
 ##### [Exploratory correlation analysis of the Chicago govt. public datasets using SQL and Python.](#project-3)
 ##### [Data visualization of my Spotify streaming history scraped with the Spotify API and using Python and Tableau.](#project-4)
